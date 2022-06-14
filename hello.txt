@@ -18,7 +18,7 @@ h
 j
 k
 l
-z	hotfix update
+z	hotfix update	2.0
 x
 c
 v
