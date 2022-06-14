@@ -22,7 +22,7 @@ z	hotfix update
 x
 c
 v
-b	mester update
+b	mester update	2.0
 n
 m111111111111111111111
 
